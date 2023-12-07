@@ -1,0 +1,284 @@
+{
+    "bookmarks": [
+        {
+            "color": 1341756994,
+            "comment": "",
+            "locked": true,
+            "name": "1 - method ref",
+            "region": {
+                "address": 10,
+                "size": 1
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "",
+            "locked": true,
+            "name": "2 - class",
+            "region": {
+                "address": 15,
+                "size": 1
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "",
+            "locked": true,
+            "name": "3 - name and type",
+            "region": {
+                "address": 18,
+                "size": 1
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "",
+            "locked": true,
+            "name": "4 - utf8",
+            "region": {
+                "address": 23,
+                "size": 1
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "",
+            "locked": true,
+            "name": "5 - utf8",
+            "region": {
+                "address": 42,
+                "size": 1
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "",
+            "locked": true,
+            "name": "6 - utf8",
+            "region": {
+                "address": 51,
+                "size": 1
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "",
+            "locked": true,
+            "name": "7 - class",
+            "region": {
+                "address": 57,
+                "size": 1
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "",
+            "locked": true,
+            "name": "8 - utf8",
+            "region": {
+                "address": 60,
+                "size": 1
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "",
+            "locked": true,
+            "name": "9 - utf8",
+            "region": {
+                "address": 69,
+                "size": 1
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "",
+            "locked": true,
+            "name": "10 - utf8",
+            "region": {
+                "address": 76,
+                "size": 1
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "",
+            "locked": true,
+            "name": "11 - utf8",
+            "region": {
+                "address": 94,
+                "size": 1
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "",
+            "locked": true,
+            "name": "12 - utf8",
+            "region": {
+                "address": 107,
+                "size": 1
+            }
+        },
+        {
+            "color": 3005819340,
+            "comment": "this is equal to 0x20 + 0x01.\n\nso it is super & public",
+            "locked": true,
+            "name": "access flags",
+            "region": {
+                "address": 121,
+                "size": 2
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "",
+            "locked": true,
+            "name": "this class",
+            "region": {
+                "address": 123,
+                "size": 2
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "",
+            "locked": true,
+            "name": "super class",
+            "region": {
+                "address": 125,
+                "size": 2
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "",
+            "locked": true,
+            "name": "interfaces count",
+            "region": {
+                "address": 127,
+                "size": 2
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "",
+            "locked": true,
+            "name": "fields count",
+            "region": {
+                "address": 129,
+                "size": 2
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "",
+            "locked": true,
+            "name": "methods count",
+            "region": {
+                "address": 131,
+                "size": 2
+            }
+        },
+        {
+            "color": 3005860979,
+            "comment": "",
+            "locked": true,
+            "name": "method - 1",
+            "region": {
+                "address": 133,
+                "size": 43
+            }
+        },
+        {
+            "color": 3005860979,
+            "comment": "",
+            "locked": true,
+            "name": "m1 - attributes count",
+            "region": {
+                "address": 139,
+                "size": 2
+            }
+        },
+        {
+            "color": 3005860979,
+            "comment": "",
+            "locked": true,
+            "name": "m1 - a1 - attribute name index",
+            "region": {
+                "address": 141,
+                "size": 2
+            }
+        },
+        {
+            "color": 3005860979,
+            "comment": "",
+            "locked": true,
+            "name": "m1 - a1 - attribute index",
+            "region": {
+                "address": 141,
+                "size": 2
+            }
+        },
+        {
+            "color": 3005860979,
+            "comment": "",
+            "locked": true,
+            "name": "m1 - a1 - attribute length",
+            "region": {
+                "address": 143,
+                "size": 4
+            }
+        },
+        {
+            "color": 3005860979,
+            "comment": "",
+            "locked": true,
+            "name": "m1 - a1 - info",
+            "region": {
+                "address": 147,
+                "size": 29
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "",
+            "locked": true,
+            "name": "attributes count",
+            "region": {
+                "address": 176,
+                "size": 2
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "",
+            "locked": true,
+            "name": "a1 - attribute name index",
+            "region": {
+                "address": 178,
+                "size": 2
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "",
+            "locked": true,
+            "name": "a1 - attribute length",
+            "region": {
+                "address": 180,
+                "size": 4
+            }
+        },
+        {
+            "color": 1341756994,
+            "comment": "",
+            "locked": true,
+            "name": "a1 - info",
+            "region": {
+                "address": 184,
+                "size": 2
+            }
+        }
+    ]
+}
